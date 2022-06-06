@@ -2,4 +2,4 @@
 
 ## 项目演示地址
 
-Open [here](https://zouzonghua.github.io/debounce-and-throttle/) to view it in the browser.
+Open [here](https://zouzonghua.github.io/debounce-and-throttle-demo/) to view it in the browser.
